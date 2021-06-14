@@ -19,5 +19,6 @@ STRATEGIC PLAN :
 
 5. Making a class in the Model for database connection
 
+6. Making Customer, CustomerGroup and Product classes in Model directory
 
 
